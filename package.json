@@ -1,0 +1,11 @@
+{
+  "name": "mert-oz",
+  "version": "1.0.0",
+  "description": "Whatsappbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mertkan1984",
+  "license": "ISC"
+}
